@@ -4,7 +4,7 @@ I'm Dwi, a TJKT student who is learning random Code, networking, Operating Syste
 Still learning, still improving step by step.
 
 Outside tech, I'm a **Uma Musume trainer**
-,Yes game first, debugging later.
+,Yes game first debugging later.
 
 ### 🛠 Tech Stack & Tools
 - **Languages**: HTML, Python, CSS, JavaScripct
