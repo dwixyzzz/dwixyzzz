@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dwixyzzz/dwixyzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dwi, a TJKT student who is learning random Code, networking, Operating System, and Cloud basics.
+Still learning, still improving step by step.
 
-Here are some ideas to get you started:
+Outside tech, I'm a **Uma Musume trainer**
+Yes, game first, debugging later.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages**: HTML, Python, CSS, JavaScripct
+- **Cloud & DevOps**: (learning)
+
+### 📌 About Me
+- 🌱 Learning DevOps, Cloud, & Code.
+- 🎮 Rhythm & racing game enjoyer
+- 🏁 Training horse girls and tuning virtual cars
+
+### 🏆 Notes
+No big achievements yet. Just focusing on learning and consistency.
